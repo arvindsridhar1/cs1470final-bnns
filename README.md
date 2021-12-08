@@ -6,4 +6,4 @@
 
 
 ### Link to Devpost
-- Find the details about the project on our Project Devpost, which can be found at https://devpost.com/software/binarized-neural-networks
+- Learn about the details of our project on our Project Devpost, which can be found at https://devpost.com/software/binarized-neural-networks
