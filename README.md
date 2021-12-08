@@ -3,3 +3,7 @@
 
 ### Link to Code
 - All our code is implemented in a Colab notebook which has text explanations of everything we do. The link to view is https://colab.research.google.com/drive/134v2cLDpJmyAAC5no365x9ibZGZXgEDn?usp=sharing
+
+
+### Link to Devpost
+- Find the details about the project on our Project Devpost, which can be found at https://devpost.com/software/binarized-neural-networks
